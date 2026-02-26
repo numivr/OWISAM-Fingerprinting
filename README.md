@@ -1,7 +1,7 @@
 # 📡 OWISAM-FP — Wi-Fi Fingerprinting Tool
 
-> Herramienta de reconocimiento pasivo de redes Wi-Fi basada en la captura y análisis de tramas Beacon.  
-> Desarrollada en Python con Scapy como parte de la metodología **OWISAM** (Open Wireless Security Assessment Methodology).
+ Herramienta de reconocimiento pasivo de redes Wi-Fi basada en la captura y análisis de tramas Beacon.  
+ Desarrollada en Python con Scapy como parte de la metodología **OWISAM** (Open Wireless Security Assessment Methodology).
 
 ---
 
@@ -47,7 +47,7 @@ pip install scapy
 pip install manuf        # Para resolución de fabricante por OUI
 ```
 
-> ⚠️ Se requieren permisos de superusuario (`sudo`) para capturar tráfico en modo monitor.
+   ⚠️ Se requieren permisos de superusuario (`sudo`) para capturar tráfico en modo monitor.
 
 ---
 
@@ -146,6 +146,8 @@ owisam-fp/
 ├── output/               # Carpeta de resultados generados
 └── README.md             # Este archivo
 ```
+
+---
 
 ## 📚 Referencias
 
