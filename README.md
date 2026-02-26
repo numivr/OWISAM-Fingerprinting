@@ -147,27 +147,6 @@ owisam-fp/
 └── README.md             # Este archivo
 ```
 
----
-
-## 🔮 Mejoras posibles
-
-- [ ] Exportación a base de datos SQLite para históricos
-- [ ] Detección de cambios en fingerprints (alertas de spoofing)
-- [ ] Integración con base de datos OUI offline actualizada
-- [ ] Soporte para captura de tramas Probe Request
-- [ ] Interfaz web para visualización de resultados
-- [ ] Modo continuo con actualización en tiempo real
-
----
-
-## ⚠️ Aviso Legal
-
-Esta herramienta está diseñada exclusivamente para **uso educativo y auditorías de seguridad autorizadas**. El uso de esta herramienta sobre redes sin autorización expresa del propietario puede constituir un delito. El autor no se hace responsable del uso indebido de este software.
-
-> Úsalo solo en entornos donde tengas permiso explícito.
-
----
-
 ## 📚 Referencias
 
 - [OWISAM — Open Wireless Security Assessment Methodology](https://www.owisam.org)
@@ -179,5 +158,6 @@ Esta herramienta está diseñada exclusivamente para **uso educativo y auditorí
 
 ## 🧑‍💻 Autor
 
-Desarrollado como parte de un proyecto de auditoría Wi-Fi basado en la metodología OWISAM.  
-Contribuciones y mejoras son bienvenidas mediante Pull Requests.
+Desarrollado como parte del proyecto de fin de máster (proyecto de auditoría Wi-Fi basado en la metodología OWISAM) 
+realizado por Marco Jiménez y Numi Valenzuela.  
+
